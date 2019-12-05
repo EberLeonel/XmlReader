@@ -1,0 +1,7 @@
+C:\Users\eber\Desktop\Projetos\Estudos\GitHub\XmlReader\XmlReader\XmlReader\bin\Debug\XmlReader.exe.config
+C:\Users\eber\Desktop\Projetos\Estudos\GitHub\XmlReader\XmlReader\XmlReader\bin\Debug\XmlReader.exe
+C:\Users\eber\Desktop\Projetos\Estudos\GitHub\XmlReader\XmlReader\XmlReader\bin\Debug\XmlReader.pdb
+C:\Users\eber\Desktop\Projetos\Estudos\GitHub\XmlReader\XmlReader\XmlReader\obj\Debug\XmlReader.csprojAssemblyReference.cache
+C:\Users\eber\Desktop\Projetos\Estudos\GitHub\XmlReader\XmlReader\XmlReader\obj\Debug\XmlReader.csproj.CoreCompileInputs.cache
+C:\Users\eber\Desktop\Projetos\Estudos\GitHub\XmlReader\XmlReader\XmlReader\obj\Debug\XmlReader.exe
+C:\Users\eber\Desktop\Projetos\Estudos\GitHub\XmlReader\XmlReader\XmlReader\obj\Debug\XmlReader.pdb
