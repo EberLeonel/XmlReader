@@ -8,7 +8,7 @@ namespace XmlReader
 {
     class ReadXmls
     {
-        public static void ReadDirectory(String pDirectoryPath)
+        internal static void ReadDirectory(String pDirectoryPath)
         {
             try
             {

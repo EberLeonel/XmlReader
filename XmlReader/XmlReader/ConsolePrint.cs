@@ -4,14 +4,14 @@ namespace XmlReader
 {
     class ConsolePrint
     {
-        public static void ConsoleHeader()
+        internal static void ConsoleHeader()
         {
             Console.Clear();
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("\n\t------- XML READER -------\n");
             Console.ForegroundColor = ConsoleColor.White;
         }
-        public static String GetDirectory(int pFirsTry)
+        internal static String GetDirectory(int pFirsTry)
         {
             Console.ForegroundColor = ConsoleColor.White;
             switch (pFirsTry)
@@ -35,7 +35,7 @@ namespace XmlReader
             }
             return Console.ReadLine();
         }
-        public static void ErrorMessage(int pNumber, String pMessage)
+        internal static void ErrorMessage(int pNumber, String pMessage)
         {
             Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("\n\tERRO ENCONTRADO!");

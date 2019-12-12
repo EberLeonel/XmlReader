@@ -6,7 +6,7 @@ namespace XmlReader
 {
     class SaveFile
     {
-        public static void CsvFile(StringBuilder pTextToFile)
+        internal static void CsvFile(StringBuilder pTextToFile)
         {
             try
             {
