@@ -18,19 +18,19 @@ namespace XmlReader
             {
                 case 0:
                     {
-                        Console.Write("\tDigite o endereço completo do diretório com os Xmls à serem lido: ");
+                        Console.Write("\tDigite o endereço completo do diretório com os Xmls à serem lidos: ");
                         break;
                     }
                 case 1:
                     {
                         Console.ForegroundColor = ConsoleColor.Yellow;
-                        Console.WriteLine("\n\tO diretório digitado não existe!");
+                        Console.WriteLine("\n\tERRO! O diretório digitado não existe!");
                         Console.ForegroundColor = ConsoleColor.White;
                         Console.Write("\tDigite novamente o endereço completo do diretório com os Xmls à serem lido: ");
                         break;
                     }
                 default:
-                    ErrorMessage(1010, "Funcionalidade de diretórios não está implementada corretamente");
+                    ErrorMessage(1010, "ERRO! Funcionalidade de diretórios não está implementada corretamente");
                     break;
             }
             return Console.ReadLine();
